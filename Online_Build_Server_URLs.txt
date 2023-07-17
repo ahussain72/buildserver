@@ -1,3 +1,10 @@
+*.gitlab.com
+www.zytor.com
+launchpad.net
+*.anaconda.org
+*.luffy.cx
+*.osuosl.org
+*.linuxtv.org
 *.xfce.org
 *.azmk8s.io
 *.googleapis.com
