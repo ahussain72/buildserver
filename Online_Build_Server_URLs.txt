@@ -1,3 +1,4 @@
+*.xfce.org
 *.azmk8s.io
 *.googleapis.com
 *.mozilla.com
