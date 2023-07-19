@@ -1,3 +1,4 @@
+*.azurecr.us
 *.gitlab.com
 www.zytor.com
 launchpad.net
